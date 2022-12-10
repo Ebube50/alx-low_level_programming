@@ -1,11 +1,13 @@
 #include <stdio.h>
-int main ()
+/**
+ * main - entry point
+ * Return: Always 0 (Success)
+ */
+int main(void)
 {
-	char str1[51];
-
-	strcpy(str1,"Programming is like building a multilingual puzzle");
-
+	/*declaration of variable str1 to hold string data*/
+	char str1[]= "\"Programming is like building a multilingual puzzle";
 	puts(str1);
 
-	return(0);
+	return (0);
 }
