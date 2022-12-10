@@ -1,6 +1,8 @@
 #include <stdio.h>
+
 /**
  * printf function - to print text
+ * return 0 success
  */
 int main(void)
 {
