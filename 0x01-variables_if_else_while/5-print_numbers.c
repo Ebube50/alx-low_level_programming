@@ -1,16 +1,18 @@
 #include <stdio.h>
-/** 
- * Main - entry point to print integers
+
+/**
+ * main - Prints numbers from 0 to 9.
  *
- * Return: o (success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
-	int i = 0;
+	int i;
 
-	while (i < 10)
-		{
-			printf("%d\n", i++);
-		}
+	for (i = 0; i < 10; i++)
+	{
+		printf("%d", i);
+	}
+	putchar('\n');
 	return (0);
 }
