@@ -1,11 +1,12 @@
 #include <stdio.h>
-/* 
- * main - entry point
+/** 
+ * Main - entry point to print integers
+ *
  * Return: o (success)
  */
 int main(void)
 {
-	int i=0;
+	int i = 0;
 
 	while (i < 10)
 		{
