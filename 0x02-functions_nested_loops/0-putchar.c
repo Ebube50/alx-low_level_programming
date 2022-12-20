@@ -1,6 +1,6 @@
 /**
  * main - entry point to print _putchar
- * Return 0 always success
+ * Return: 0 always success
  */
 #include <unistd.h>
 int main(void)
