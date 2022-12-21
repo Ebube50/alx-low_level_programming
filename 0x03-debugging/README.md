@@ -1,5 +1,6 @@
 # Debugging
-This Repo is for ALx debugging project. This project is geared towards learning the concept of debugging and how to debbug.
+This Repo is for ALx debugging project.
+This project is geared towards learning the concept of debugging and how to debug.
 
 ## Technologies
 * Editor used: `Vim`.
