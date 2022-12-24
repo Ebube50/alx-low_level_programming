@@ -1,4 +1,4 @@
-#include "main.h"
+#include "min.h"
 /**
  * _strncat - concatenates two strings,
  * @dest: destination.
